@@ -1,0 +1,15 @@
+{
+  "name": "My Practice App",
+  "short_name": "Practice App",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e9aa48",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
